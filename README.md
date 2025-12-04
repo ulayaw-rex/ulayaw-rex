@@ -6,7 +6,7 @@
   
   <p>
     <b>Student Developer</b><br>
-    <i>"Learning to be better than who I was yesterday."</i>
+    <i>"Competing only with who I was yesterday."</i>
   </p>
 
   <a href="https://git.io/typing-svg">
@@ -27,27 +27,27 @@ I'm a student developer based in the Philippines with a strong interest in the l
 
 ### 🛠️ The Toolkit
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-1b4332?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1b4332?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-1b4332?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-1b4332?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-1b4332?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Git-1b4332?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 <br />
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulayaw-rex&show_icons=true&bg_color=0d1117&title_color=2ea44f&text_color=9e9e9e&icon_color=2ea44f&border_color=1b4332&hide_border=false" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ulayaw-rex&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulayaw-rex&layout=compact&bg_color=0d1117&title_color=2ea44f&text_color=9e9e9e&border_color=1b4332&hide_border=false" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulayaw-rex&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ask%20Me%20About-Backend%20Logic-success?style=flat&logo=gmail&logoColor=white&color=1b4332" />
+  <img src="https://img.shields.io/badge/Ask%20Me%20About-Backend%20Logic-white?style=flat&logo=gmail&logoColor=black" />
 </div>
