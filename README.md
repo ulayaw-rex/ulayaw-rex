@@ -29,6 +29,7 @@ I'm a student developer based in the Philippines with a strong interest in the l
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -39,11 +40,13 @@ I'm a student developer based in the Philippines with a strong interest in the l
 
 ### 📊 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulayaw-rex&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulayaw-rex&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulayaw-rex&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulayaw-rex&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 <br />
