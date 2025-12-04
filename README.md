@@ -36,21 +36,4 @@ I'm a student developer based in the Philippines with a strong interest in the l
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<br />
 
-### 📊 Github Stats
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulayaw-rex&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulayaw-rex&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Ask%20Me%20About-Backend%20Logic-white?style=flat&logo=gmail&logoColor=black" />
-</div>
